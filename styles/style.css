@@ -1,0 +1,34 @@
+h1 {
+  font-size: 3em;
+}
+section {
+  padding: 60px 0;
+}
+.span-font-size {
+  font-size: 14px;
+}
+.coustom-color {
+  color: rgba(231, 111, 81, 1);
+}
+header {
+  background: rgba(38, 70, 83, 1);
+}
+.link-btn {
+  background: rgba(231, 111, 81, 1);
+}
+.section-title {
+  color: #000;
+}
+.fetured-img {
+  filter: grayscale(1);
+}
+.section-title-span {
+  color: rgba(10, 8, 38, 1);
+}
+.review {
+  padding: 35px 40px;
+}
+.review-img {
+  width: 143px;
+  height: 143px;
+}
